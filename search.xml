@@ -8,7 +8,7 @@
       <link href="/wenzhang/2%E5%8F%B7/"/>
       <url>/wenzhang/2%E5%8F%B7/</url>
       
-        <content type="html"><![CDATA[<!-- # JiYuTrainer --><p><a href="https://raw.githubusercontent.com/imengyu/JiYuTrainer/master/Release/JiYuTrainer.exe">已编译下载链接 -github</a></p><h2 id="关于u盘被锁"><a href="#关于u盘被锁" class="headerlink" title="关于u盘被锁"></a>关于u盘被锁</h2><p>使用<strong>管理员</strong>权限运行cmd<br>输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sc stop TDFileFilter</span><br><span class="line">sc delete TDFileFilter</span><br></pre></td></tr></table></figure><hr>]]></content>
+        <content type="html"><![CDATA[<!-- # JiYuTrainer --><p><a href="https://raw.githubusercontent.com/imengyu/JiYuTrainer/master/Release/JiYuTrainer.exe">工具已编译下载链接 -github</a></p><h2 id="关于u盘被锁"><a href="#关于u盘被锁" class="headerlink" title="关于u盘被锁"></a>关于u盘被锁</h2><p>使用<strong>管理员</strong>权限运行cmd<br>输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sc stop TDFileFilter</span><br><span class="line">sc delete TDFileFilter</span><br></pre></td></tr></table></figure><hr>]]></content>
       
       
       <categories>
